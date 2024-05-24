@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Roman 👋
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=romanindermuehle&theme=blueberry)](https://git.io/streak-stats)
 
 <!--
 **romanindermuehle/RomanIndermuehle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
